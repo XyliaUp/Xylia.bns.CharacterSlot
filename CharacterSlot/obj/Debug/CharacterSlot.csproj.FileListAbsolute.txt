@@ -1,0 +1,9 @@
+F:\Resources\文档\Programming\C#\项目\Xylia\bns\CharacterSlot\CharacterSlot\obj\Debug\CharacterSlot.csproj.AssemblyReference.cache
+F:\Resources\文档\Programming\C#\项目\Xylia\bns\CharacterSlot\CharacterSlot\obj\Debug\CharacterSlot.Properties.Resources.resources
+F:\Resources\文档\Programming\C#\项目\Xylia\bns\CharacterSlot\CharacterSlot\obj\Debug\CharacterSlot.csproj.GenerateResource.cache
+F:\Resources\文档\Programming\C#\项目\Xylia\bns\CharacterSlot\CharacterSlot\obj\Debug\CharacterSlot.csproj.CoreCompileInputs.cache
+F:\Resources\文档\Programming\C#\项目\Xylia\bns\CharacterSlot\CharacterSlot\bin\Debug\CharacterSlot.exe
+F:\Resources\文档\Programming\C#\项目\Xylia\bns\CharacterSlot\CharacterSlot\bin\Debug\CharacterSlot.pdb
+F:\Resources\文档\Programming\C#\项目\Xylia\bns\CharacterSlot\CharacterSlot\obj\Debug\CharacterSlot.Form1.resources
+F:\Resources\文档\Programming\C#\项目\Xylia\bns\CharacterSlot\CharacterSlot\obj\Debug\CharacterSlot.exe
+F:\Resources\文档\Programming\C#\项目\Xylia\bns\CharacterSlot\CharacterSlot\obj\Debug\CharacterSlot.pdb
